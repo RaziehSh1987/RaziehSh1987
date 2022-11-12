@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaziehSh1987 
-- 👀 I’m interested in python andDeep learning and  machin learning  (and android)
+- 👀 I’m interested in python and Deep learning and  machin learning  (and android)
 - 🌱 I’m currently learning machin learning  and DL and python
 - 💞️ I’m looking for an software engineering internship 
 - 📫 How to reach me : shahsavar.razieh@gmail.com
