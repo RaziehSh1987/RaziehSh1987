@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RaziehSh1987 
-- 👀 I’m interested in android,python and machin learning 
-- 🌱 I’m currently learning machin learning  and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : razieh_shahsavar@yahoo.com
+- 👀 I’m interested in python andDeep learning and  machin learning  (and android)
+- 🌱 I’m currently learning machin learning  and DL and python
+- 💞️ I’m looking for an software engineering internship 
+- 📫 How to reach me : shahsavar.razieh@gmail.com
 
 <!---
 RaziehSh1987/RaziehSh1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
