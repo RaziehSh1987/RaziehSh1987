@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RaziehSh1987 
-- 👀 I’m interested in python and Deep learning and  machin learning  (and android)
-- 🌱 I’m currently learning machin learning  and DL and python
-- 💞️ I’m looking for Data scientist or software developer job position (Entry level)
+- 👋 Hi, I’m @RaziehSh1987
+- I speak Farsi, English, French 
+- 👀 I’m interested in python , Deep learning ,  machin learning and computer vision 
+- 💞️ I’m looking for software developer job position 
 - 📫 How to reach me : shahsavar.razieh@gmail.com
 
 <!---
