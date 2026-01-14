@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaziehSh1987
 - I speak Farsi, English, French 
-- 👀 I’m interested in python , Deep learning ,  machin learning and computer vision 
+- 👀 I’m interested in Data Analysis , Python , Deep learning ,  Machin learning and Computer vision 
 - 💞️ I’m looking for software developer job position 
 - 📫 How to reach me : shahsavar.razieh@gmail.com
 
